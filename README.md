@@ -191,16 +191,7 @@ This project is for educational purposes only.
 
 ---
 
-## Author
 
-Your Name  
-Contact: your.email@example.com
 
----
 
-## Acknowledgements
 
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-- [Pandas Documentation](https://pandas.pydata.org/)
-- [Matplotlib Documentation](https://matplotlib.org/)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
