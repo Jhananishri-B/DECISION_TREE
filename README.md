@@ -1,3 +1,7 @@
+
+APP LINK :  https://decisiontree-cut2ymkd4awy7wcdapp8afx.streamlit.app/
+
+
 # House Price Classification Using Decision Tree
 
 This repository contains a complete workflow for predicting house price categories using a Decision Tree Classifier. The project demonstrates data preprocessing, exploratory data analysis, model training, evaluation, and saving the trained model for future use.
